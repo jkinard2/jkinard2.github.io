@@ -11,10 +11,10 @@
 }
 
 :root {
-    --bg-color: #1f242d;
-    --second-bg-color: #323946;
+    --bg-color: #00204a;
+    --second-bg-color: #e1b383;
     --text-color: #fff;
-    --main-color: #0ef;
+    --main-color: #600473;
 }
 
 html {
@@ -32,7 +32,7 @@ html {
 }
 
 .logo:hover {
-    color:#0ef;
+    color:#B6E1E7;
 }
 
 body {
@@ -520,4 +520,3 @@ body {
 }
 
   }
-  
